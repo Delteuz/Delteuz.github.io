@@ -466,6 +466,7 @@
   margin: 0 0 10px;
   border: 1px solid black;
   background-color: rgb(242, 242, 242);
+  padding-left: 10px;
 }
 
 .input-submit input {
@@ -498,6 +499,7 @@
   background-color: rgb(242, 242, 242);
   width: 80vw;
   border: 1px solid black;
+  padding-left: 10px;
 }
 
 /*----------END OF BODY 7-----------*/
